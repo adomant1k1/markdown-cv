@@ -21,7 +21,7 @@ __Samara State Aerospace University, Samara.__
 
 - Bachelor's degree, Information Technology and Systems
 
-<h3>2019-2021`</h3>
+<h3>2019-2021</h3>
 __Samara State Aerospace University, Samara__
 
 - Master's degree, Information Technology and Systems
@@ -29,19 +29,19 @@ __Samara State Aerospace University, Samara__
 
 ## Professional Experience
 
-<h3>Oct 2019 - Present`</h3>
+<h3>Oct 2019 - Present</h3>
 __WaveAccess__
 
 - Web Developer
 - Implementation of a software product in Angular. Project activities. 
 
-<h3>Aug 2019 - Oct 2019`</h3>
+<h3>Aug 2019 - Oct 2019</h3>
 __Sberbank__, Samara
 
 - Auditor
 - Auditor of the Corporate Business Audit Department. Data engineering (SQL), department business process automation (Python). 
 
-<h3>Jul 2018 - Sep 2018`</h3>
+<h3>Jul 2018 - Sep 2018</h3>
 __Integra - S__, Samara
 
 - Web Developer
