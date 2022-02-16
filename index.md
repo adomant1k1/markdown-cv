@@ -14,6 +14,7 @@ title: Andrey Sadovskiy's CV
 
 Web-developer at WaveAccess
 
+
 ## Education
 
 `2015-2019`
@@ -26,19 +27,8 @@ __Samara State Aerospace University, Samara__
 
 - Master's degree, Information Technology and Systems
 
+
 ## Professional Experience
-
-`Jul 2018 - Sep 2018`
-__Integra - S__, Samara
-
-- Web Developer
-- Software implementation of working with graphical elements in GIS (JS).
-
-`Aug 2019 - Oct 2019`
-__Sberbank__, Samara
-
-- Auditor
-- Auditor of the Corporate Business Audit Department. Data engineering (SQL), department business process automation (Python). 
 
 `Oct 2019 - Present`
 __WaveAccess__
@@ -46,7 +36,20 @@ __WaveAccess__
 - Web Developer
 - Implementation of a software product in Angular. Project activities. 
 
-## Computing
+`Aug 2019 - Oct 2019`
+__Sberbank__, Samara
+
+- Auditor
+- Auditor of the Corporate Business Audit Department. Data engineering (SQL), department business process automation (Python). 
+
+`Jul 2018 - Sep 2018`
+__Integra - S__, Samara
+
+- Web Developer
+- Software implementation of working with graphical elements in GIS (JS).
+
+
+## Stack
 
 Web-development: js,ts , angular
 
