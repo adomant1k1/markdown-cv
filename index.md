@@ -22,7 +22,7 @@ __Samara State Aerospace University, Samara.__
 - Bachelor's degree, Information Technology and Systems
 
 `2019-2021`
-__Samara State Aerospace University, Samara
+__Samara State Aerospace University, Samara__
 
 - Master's degree, Information Technology and Systems
 
