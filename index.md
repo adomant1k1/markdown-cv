@@ -1,91 +1,63 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Andrey Sadovskiy's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Andrey Sadovskiy
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="adomant1k1@gmail.com">adomant1k1@gmail.com</a>
+| <a href="https://www.linkedin.com/in/andrey-sadovskiy-a1b798209">My linkedin page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Web-developer at WaveAccess
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2015-2019`
+__Samara State Aerospace University, Samara.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Bachelor's degree, Information Technology and Systems
 
-- Sizar
+`2019-2021`
+__Samara State Aerospace University, Samara
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Master's degree, Information Technology and Systems
 
-- Fellow
+## Professional Experience
 
+`Jul 2018 - Sep 2018`
+__Integra - S__, Samara
 
+- Web Developer
+- Software implementation of working with graphical elements in GIS (JS).
 
-## Awards
+`Aug 2019 - Oct 2019`
+__Sberbank__, Samara
 
-`2012`
-President, *Royal Society*, London, UK
+- Auditor
+- Auditor of the Corporate Business Audit Department. Data engineering (SQL), department business process automation (Python). 
 
-Associate, *French Academy of Science*, Paris, France
+`Oct 2019 - Present`
+__WaveAccess__
 
+- Web Developer
+- Implementation of a software product in Angular. Project activities. 
 
+## Computing
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Web-development: js,ts , angular
 
 
-## Occupation
+## Language
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+Russian, English (B2)
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Febr 2022 -->
 
 
