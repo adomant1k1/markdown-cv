@@ -59,6 +59,11 @@ Other: Python, scikit-learn, keras, pandas, numpy. SQL, Postgres, Java, Spring B
 Russian, English (B2)
 
 
+## Location
+
+__Samara, Russia__
+
+
 <!-- ### Footer
 
 Last updated: Febr 2022 -->
