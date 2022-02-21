@@ -22,14 +22,16 @@ Web-developer at WaveAccess
 __WaveAccess__
 
 - Web Developer
-- Implementation of a software product in Angular, a large solution for monitoring, analysis and project management. Development of new product functionality, optimization
-- of current capabilities. Worked on plugin management, lazy-load modules, micro-frontends, various graph/treelike builders etc.
+- Implementation of a software product in Angular, a large solution for monitoring, analysis and project management.
+- Development of new product functionality, optimization of current capabilities. Worked on plugin management,
+- lazy-load modules, micro-frontends, various graph/treelike builders etc.
 
 <h3>Aug 2019 - Oct 2019</h3>
 __Sberbank__, Samara
 
 - Auditor
-- Auditor of the Corporate Business Audit Department. Data engineering (SQL), department business process automation (Python). 
+- Auditor of the Corporate Business Audit Department. Data engineering (SQL),
+- department business process automation (Python). 
 
 <h3>Jul 2018 - Sep 2018</h3>
 __Integra - S__, Samara
@@ -41,7 +43,8 @@ __Integra - S__, Samara
 ## Stack
 
 - Web-development: JS, TS , Angular, HTML, SCSS, Bootstrap, React
-- Other: Python, scikit-learn, keras, pandas, numpy. SQL, Postgres, Java, Spring Boot, Git, Jenkins, Postman
+- Other: Python, scikit-learn, keras, pandas, numpy. SQL, Postgres,
+- Java, Spring Boot, Git, Jenkins, Postman
 
 
 ## Language
