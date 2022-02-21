@@ -16,18 +16,6 @@ title: Andrey Sadovskiy's CV
 Web-developer at WaveAccess
 
 
-## Education
-<h3>2015-2019</h3>
-__Samara State Aerospace University, Samara.__
-
-- Bachelor's degree, Information Technology and Systems
-
-<h3>2019-2021</h3>
-__Samara State Aerospace University, Samara__
-
-- Master's degree, Information Technology and Systems
-
-
 ## Professional Experience
 
 <h3>Oct 2019 - Present</h3>
@@ -63,6 +51,18 @@ Russian, English (B2)
 ## Location
 
 __Samara, Russia__
+
+
+## Education
+<h3>2015-2019</h3>
+__Samara State Aerospace University, Samara.__
+
+- Bachelor's degree, Information Technology and Systems
+
+<h3>2019-2021</h3>
+__Samara State Aerospace University, Samara__
+
+- Master's degree, Information Technology and Systems
 
 
 <!-- ### Footer
