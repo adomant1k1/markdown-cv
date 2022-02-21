@@ -3,6 +3,7 @@ layout: cv
 title: Andrey Sadovskiy's CV
 ---
 # Andrey Sadovskiy
+21.10.97
 
 <div id="webaddress">
 <a href="mailto:adomant1k1@gmail.com">adomant1k1@gmail.com</a>
@@ -50,8 +51,8 @@ __Integra - S__, Samara
 
 ## Stack
 
-Web-development: JS, TS , Angular, HTML, SCSS, Bootstrap
-Other: Python, scikit-learn, keras, pandas, numpy. SQL, Postgres, Java, Spring Boot 
+- Web-development: JS, TS , Angular, HTML, SCSS, Bootstrap, React
+- Other: Python, scikit-learn, keras, pandas, numpy. SQL, Postgres, Java, Spring Boot, Git
 
 
 ## Language
