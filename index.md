@@ -52,7 +52,7 @@ __Integra - S__, Samara
 ## Stack
 
 - Web-development: JS, TS , Angular, HTML, SCSS, Bootstrap, React
-- Other: Python, scikit-learn, keras, pandas, numpy. SQL, Postgres, Java, Spring Boot, Git
+- Other: Python, scikit-learn, keras, pandas, numpy. SQL, Postgres, Java, Spring Boot, Git, Jenkins, Postman
 
 
 ## Language
