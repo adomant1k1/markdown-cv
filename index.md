@@ -5,7 +5,7 @@ title: Andrey Sadovskiy's CV
 # Andrey Sadovskiy
 
 <div id="webaddress">
-<a href="adomant1k1@gmail.com">adomant1k1@gmail.com</a>
+<a href="mailto:adomant1k1@gmail.com">adomant1k1@gmail.com</a>
 | <a href="https://www.linkedin.com/in/andrey-sadovskiy-a1b798209">My linkedin page</a>
 </div>
 
@@ -33,7 +33,7 @@ __Samara State Aerospace University, Samara__
 __WaveAccess__
 
 - Web Developer
-- Implementation of a software product in Angular. Project activities. 
+- Implementation of a software product in Angular, a large solution for monitoring, analysis and project management. Development of new product functionality, optimization of current capabilities. Worked on plugin management, lazy-load modules, micro-frontends, various graph/treelike builders etc.
 
 <h3>Aug 2019 - Oct 2019</h3>
 __Sberbank__, Samara
