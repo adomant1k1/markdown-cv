@@ -34,7 +34,7 @@ __Samara State Aerospace University, Samara__
 __WaveAccess__
 
 - Web Developer
-- Implementation of a software product in Angular, a large solution for monitoring, analysis and project management. Development of new product functionality, optimization of current capabilities. Worked on plugin management, lazy-load modules, micro-frontends, various graph/treelike builders etc.
+- Implementation of a software product in Angular, a large solution for monitoring, analysis and project management. Development of new product functionality, optimization of   -current capabilities. Worked on plugin management, lazy-load modules, micro-frontends, various graph/treelike builders etc.
 
 <h3>Aug 2019 - Oct 2019</h3>
 __Sberbank__, Samara
