@@ -4,7 +4,7 @@ title: Andrey Sadovskiy's CV
 ---
 # Andrey Sadovskiy
 
-Web Developer
+Web Developer. Samara, Russia
 adomant1k1@gmail.com
 +79171101432
 
@@ -62,7 +62,6 @@ Russian, English (B2)
 ## Personal Info
 
 Date of Birth: 21.10.97
-Location: __Samara, Russia__
 
 
 ## Links
