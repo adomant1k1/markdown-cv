@@ -18,10 +18,6 @@ title: Andrey Sadovskiy's CV
 </ul>
 
 
-
-
-
-
 ## Experience
 
 <h3>Oct 2019 - Present</h3>
@@ -35,7 +31,7 @@ __WaveAccess, Samara - Web Developer__
    Development of new product functionality, optimization of current capabilities.
 </li>
 <li>
-   Worked on plugin management, lazy-load modules, micro-frontends, various graph/treelike builders etc.
+   Worked on plugin management, lazy-load modules, micro-frontends, graph/treelike builders, etc.
 </li>
 </ul>
 
@@ -59,8 +55,8 @@ __Integra - S, Samara - Web Developer__
 
 <ul id="list-w-bullet-points">
   <li>
-  Software implementation of working with graphical elements in GIS (JS).
-</li>
+    Software implementation of working with graphical elements in GIS (JS).
+  </li>
 </ul>
 
 
@@ -68,12 +64,20 @@ __Integra - S, Samara - Web Developer__
 <h3>2015-2019</h3>
 __Samara State Aerospace University, Samara.__
 
-- Bachelor's degree, Information Technology and Systems
+<ul id="list-w-bullet-points">
+  <li>
+    Bachelor's degree, Information Technology and Systems
+  </li>
+</ul>
 
 <h3>2019-2021</h3>
 __Samara State Aerospace University, Samara__
 
-- Master's degree, Information Technology and Systems
+<ul id="list-w-bullet-points">
+  <li>
+    Master's degree, Information Technology and Systems
+  </li>
+</ul>
 
 
 ## Stack
@@ -101,9 +105,7 @@ __Date of Birth__: 21.10.97
 </div>
 
 
-
 <!-- ### Footer
 
 Last updated: Febr 2022 -->
-
 
