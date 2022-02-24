@@ -59,9 +59,10 @@ __Samara State Aerospace University, Samara__
 Russian, English (B2)
 
 
-## Location
+## Personal Info
 
-__Samara, Russia__
+Date of Birth: 21.10.97
+Location: __Samara, Russia__
 
 
 ## Links
