@@ -169,6 +169,12 @@ a:hover {
 	font-size: 80%;
 }
 
+#topinfo li {
+	font-size: 14px;
+	color: black;
+	font-style: normal;
+}
+
 #webaddress a {
 	text-decoration: none;
 }
