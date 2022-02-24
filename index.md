@@ -62,7 +62,7 @@ __Date of Birth__: 21.10.97
 
 ## Links
 
-<div id="webaddress">
+<div style="font-size: 14px" id="webaddress">
 <a href="https://github.com/adomant1k1">Github</a>
 | <a href="https://www.linkedin.com/in/andrey-sadovskiy-a1b798209">Linkedin</a>
 </div>
