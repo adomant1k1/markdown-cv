@@ -169,7 +169,11 @@ a:hover {
 	font-size: 80%;
 }
 
-#topinfo li {
+#top-info {
+	margin-top: 24px;
+}
+
+#top-info li {
 	font-size: 14px;
 	color: black;
 	font-style: normal;
