@@ -31,7 +31,8 @@ __WaveAccess, Samara - Web Developer__
    Development of new product functionality, optimization of current capabilities.
 </li>
 <li>
-   Worked on plugin management, lazy-load modules, micro-frontends, graph/treelike builders, etc.
+   Worked on plugin management, lazy-load modules, micro-frontends,
+   graph/treelike builders
 </li>
 </ul>
 
@@ -40,12 +41,16 @@ __WaveAccess, Samara - Web Developer__
 __Sberbank, Samara - Auditor__
 
 <ul id="list-w-bullet-points">
-<li>
-  Auditor of the Corporate Business Audit Department. 
-</li>
-<li>
-   Data engineering (SQL), department business process automation (Python). 
-</li>
+  <li>
+    Auditor of the Corporate Business Audit Department. 
+  </li>
+  <li>
+    Data engineering (SQL), was responsible for collecting data from various sources for auditing. 
+  </li>
+  <li>
+    Department business process automation (Python), developed script for automating the process
+    of searching for theft in certain cases according to .pdf scans of loan agreements. 
+  </li>
 </ul>
 
 
@@ -55,7 +60,10 @@ __Integra - S, Samara - Web Developer__
 
 <ul id="list-w-bullet-points">
   <li>
-    Software implementation of working with graphical elements in GIS (JS).
+    Software implementation of working with graphical elements in GIS(JS).
+  </li>
+  <li>
+   Developing interface for interactions with 3D objects in GIS CesiumJS.
   </li>
 </ul>
 
