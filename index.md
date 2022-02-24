@@ -17,21 +17,44 @@ adomant1k1@gmail.com
 <h3>Oct 2019 - Present</h3>
 __WaveAccess, Samara - Web Developer__
 
-- Implementation of a software product in Angular, a large solution for monitoring,
-- analysis and project management. Development of new product functionality,
-- optimization of current capabilities. Worked on plugin management,
-- lazy-load modules, micro-frontends, various graph/treelike builders etc.
+<ul>
+  <li>
+  Implementation of a software product in Angular, a large solution for monitoring,
+</li>
+<li>
+  analysis and project management. Development of new product functionality,
+</li>
+<li>
+  optimization of current capabilities. Worked on plugin management,
+</li>
+<li>
+  lazy-load modules, micro-frontends, various graph/treelike builders etc.
+</li>
+</ul>
+
 
 <h3>Aug 2019 - Oct 2019</h3>
 __Sberbank, Samara - Auditor__
 
-- Auditor of the Corporate Business Audit Department. Data engineering (SQL),
-- department business process automation (Python). 
+<ul>
+<li>
+  Auditor of the Corporate Business Audit Department. Data engineering (SQL),
+</li>
+<li>
+  department business process automation (Python). 
+</li>
+</ul>
+
 
 <h3>Jul 2018 - Sep 2018</h3>
 __Integra - S, Samara - Web Developer__
 
-- Software implementation of working with graphical elements in GIS (JS).
+
+<ul>
+  <li>
+  Software implementation of working with graphical elements in GIS (JS).
+</li>
+</ul>
 
 
 ## Education
