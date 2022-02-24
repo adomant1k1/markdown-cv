@@ -3,42 +3,47 @@ layout: cv
 title: Andrey Sadovskiy's CV
 ---
 # Andrey Sadovskiy
-21.10.97
 
-<div id="webaddress">
-<a href="mailto:adomant1k1@gmail.com">adomant1k1@gmail.com</a>
-| <a href="https://www.linkedin.com/in/andrey-sadovskiy-a1b798209">My linkedin page</a>
-</div>
-
+adomant1k1@gmail.com
++79171101432
 
 ## Currently
 
 Web-developer at WaveAccess
 
 
-## Professional Experience
+## Experience
 
 <h3>Oct 2019 - Present</h3>
-__WaveAccess__
+__WaveAccess__, Samara - Web Developer
 
-- Web Developer
 - Implementation of a software product in Angular, a large solution for monitoring,
 - analysis and project management. Development of new product functionality,
 - optimization of current capabilities. Worked on plugin management,
 - lazy-load modules, micro-frontends, various graph/treelike builders etc.
 
 <h3>Aug 2019 - Oct 2019</h3>
-__Sberbank__, Samara
+__Sberbank__, Samara - Auditor
 
-- Auditor
 - Auditor of the Corporate Business Audit Department. Data engineering (SQL),
 - department business process automation (Python). 
 
 <h3>Jul 2018 - Sep 2018</h3>
-__Integra - S__, Samara
+__Integra - S__, Samara - Web Developer
 
-- Web Developer
 - Software implementation of working with graphical elements in GIS (JS).
+
+
+## Education
+<h3>2015-2019</h3>
+__Samara State Aerospace University, Samara.__
+
+- Bachelor's degree, Information Technology and Systems
+
+<h3>2019-2021</h3>
+__Samara State Aerospace University, Samara__
+
+- Master's degree, Information Technology and Systems
 
 
 ## Stack
@@ -58,16 +63,13 @@ Russian, English (B2)
 __Samara, Russia__
 
 
-## Education
-<h3>2015-2019</h3>
-__Samara State Aerospace University, Samara.__
+## Links
 
-- Bachelor's degree, Information Technology and Systems
+<div id="webaddress">
+<a href="https://github.com/adomant1k1">Github</a>
+| <a href="https://www.linkedin.com/in/andrey-sadovskiy-a1b798209">Linkedin</a>
+</div>
 
-<h3>2019-2021</h3>
-__Samara State Aerospace University, Samara__
-
-- Master's degree, Information Technology and Systems
 
 
 <!-- ### Footer
