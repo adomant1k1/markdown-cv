@@ -29,13 +29,13 @@ __WaveAccess, Samara - Web Developer__
 
 <ul id="list-w-bullet-points">
   <li>
-  Implementation of a software product in Angular, a large solution for monitoring, analysis and project management.
+  Development of a large solution for monitoring, analysis and project management.
 </li>
 <li>
    Development of new product functionality, optimization of current capabilities.
 </li>
 <li>
-   Worked on plugin management,l azy-load modules, micro-frontends, various graph/treelike builders etc.
+   Worked on plugin management, lazy-load modules, micro-frontends, various graph/treelike builders etc.
 </li>
 </ul>
 
