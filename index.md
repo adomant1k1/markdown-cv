@@ -27,7 +27,7 @@ title: Andrey Sadovskiy's CV
 <h3>Oct 2019 - Present</h3>
 __WaveAccess, Samara - Web Developer__
 
-<ul>
+<ul id="list-w-bullet-points">
   <li>
   Implementation of a software product in Angular, a large solution for monitoring,
 </li>
@@ -46,7 +46,7 @@ __WaveAccess, Samara - Web Developer__
 <h3>Aug 2019 - Oct 2019</h3>
 __Sberbank, Samara - Auditor__
 
-<ul>
+<ul id="list-w-bullet-points">
 <li>
   Auditor of the Corporate Business Audit Department. Data engineering (SQL),
 </li>
@@ -60,7 +60,7 @@ __Sberbank, Samara - Auditor__
 __Integra - S, Samara - Web Developer__
 
 
-<ul>
+<ul id="list-w-bullet-points">
   <li>
   Software implementation of working with graphical elements in GIS (JS).
 </li>
