@@ -5,7 +5,9 @@ title: Andrey Sadovskiy's CV
 # Andrey Sadovskiy
 
 Web Developer. Samara, Russia
+
 adomant1k1@gmail.com
+
 +79171101432
 
 
@@ -62,7 +64,7 @@ __Date of Birth__: 21.10.97
 
 ## Links
 
-<div style="font-size: 14px" id="webaddress">
+<div style="font-size: 14px; margin-top: 0 !important" id="webaddress">
 <a href="https://github.com/adomant1k1">Github</a>
 | <a href="https://www.linkedin.com/in/andrey-sadovskiy-a1b798209">Linkedin</a>
 </div>
