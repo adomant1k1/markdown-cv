@@ -29,16 +29,13 @@ __WaveAccess, Samara - Web Developer__
 
 <ul id="list-w-bullet-points">
   <li>
-  Implementation of a software product in Angular, a large solution for monitoring,
+  Implementation of a software product in Angular, a large solution for monitoring, analysis and project management.
 </li>
 <li>
-  analysis and project management. Development of new product functionality,
+   Development of new product functionality, optimization of current capabilities.
 </li>
 <li>
-  optimization of current capabilities. Worked on plugin management,
-</li>
-<li>
-  lazy-load modules, micro-frontends, various graph/treelike builders etc.
+   Worked on plugin management,l azy-load modules, micro-frontends, various graph/treelike builders etc.
 </li>
 </ul>
 
@@ -48,10 +45,10 @@ __Sberbank, Samara - Auditor__
 
 <ul id="list-w-bullet-points">
 <li>
-  Auditor of the Corporate Business Audit Department. Data engineering (SQL),
+  Auditor of the Corporate Business Audit Department. 
 </li>
 <li>
-  department business process automation (Python). 
+   Data engineering (SQL), department business process automation (Python). 
 </li>
 </ul>
 
