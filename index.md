@@ -8,10 +8,6 @@ Web Developer. Samara, Russia
 adomant1k1@gmail.com
 +79171101432
 
-## Currently
-
-Web-developer at WaveAccess
-
 
 ## Experience
 
