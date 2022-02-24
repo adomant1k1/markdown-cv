@@ -179,6 +179,13 @@ a:hover {
 	font-style: normal;
 }
 
+#list-w-bullet-points li {
+	display: list-item;         
+    	list-style-type: disc;       
+    	list-style-position: inside;
+	text-indent: -0.25rem;
+}
+
 #webaddress a {
 	text-decoration: none;
 }
