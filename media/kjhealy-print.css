@@ -183,6 +183,14 @@ a:hover {
 	font-size: 14px;
 	color: black;
 	font-style: normal;
+	margin-bottom: 4px;
+}
+
+#list-w-bullet-points li {
+	display: list-item;         
+    	list-style-type: disc;       
+    	list-style-position: inside;
+	text-indent: -0.25rem;
 }
 
 em {
