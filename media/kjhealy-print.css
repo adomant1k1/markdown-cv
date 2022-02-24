@@ -175,6 +175,16 @@ a:hover {
 	text-decoration: none;
 }
 
+#top-info {
+	margin-top: 24px;
+}
+
+#top-info li {
+	font-size: 14px;
+	color: black;
+	font-style: normal;
+}
+
 em {
 	font-style: normal;
 	color: #2d4e5e 
