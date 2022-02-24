@@ -57,7 +57,7 @@ Russian, English (B2)
 
 ## Personal Info
 
-Date of Birth: 21.10.97
+__Date of Birth__: 21.10.97
 
 
 ## Links
