@@ -12,7 +12,7 @@ adomant1k1@gmail.com
 ## Experience
 
 <h3>Oct 2019 - Present</h3>
-__WaveAccess__, Samara - Web Developer
+__WaveAccess, Samara - Web Developer__
 
 - Implementation of a software product in Angular, a large solution for monitoring,
 - analysis and project management. Development of new product functionality,
@@ -20,13 +20,13 @@ __WaveAccess__, Samara - Web Developer
 - lazy-load modules, micro-frontends, various graph/treelike builders etc.
 
 <h3>Aug 2019 - Oct 2019</h3>
-__Sberbank__, Samara - Auditor
+__Sberbank, Samara - Auditor__
 
 - Auditor of the Corporate Business Audit Department. Data engineering (SQL),
 - department business process automation (Python). 
 
 <h3>Jul 2018 - Sep 2018</h3>
-__Integra - S__, Samara - Web Developer
+__Integra - S, Samara - Web Developer__
 
 - Software implementation of working with graphical elements in GIS (JS).
 
