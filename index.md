@@ -90,7 +90,7 @@ __Samara State Aerospace University, Samara__
 
 ## Stack
 
-- __Web-development__: JS, TS , Angular, HTML, SCSS, Bootstrap, React
+- __Web-development__: JS, TS , Angular, RxJs, Karma, HTML, SCSS, Bootstrap, React
 - __Other__: Python, scikit-learn, keras, pandas, numpy. SQL, Postgres,
 - Java, Spring Boot, Git, Jenkins, Postman
 
