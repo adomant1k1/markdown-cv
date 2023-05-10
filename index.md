@@ -47,7 +47,7 @@ __WaveAccess, Samara - Frontend Developer__
   </li>
   <li>
     For UST Global developed platforms Dagility, Marketplace 
-    which included integration witр an extensive number of
+    which included integration with an extensive number of
     Web and ML services for project work, monitoring and analysis.
   </li>
   <li>
@@ -97,14 +97,6 @@ __Integra - S, Samara - Frontend Developer__
 
 
 ## Education
-<h3>2015-2019</h3>
-__Samara State Aerospace University, Samara.__
-
-<ul id="list-w-bullet-points">
-  <li>
-    Bachelor's degree, Information Technology and Systems
-  </li>
-</ul>
 
 <h3>2019-2021</h3>
 __Samara State Aerospace University, Samara__
@@ -112,6 +104,15 @@ __Samara State Aerospace University, Samara__
 <ul id="list-w-bullet-points">
   <li>
     Master's degree, Information Technology and Systems
+  </li>
+</ul>
+
+<h3>2015-2019</h3>
+__Samara State Aerospace University, Samara.__
+
+<ul id="list-w-bullet-points">
+  <li>
+    Bachelor's degree, Information Technology and Systems
   </li>
 </ul>
 
