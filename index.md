@@ -9,7 +9,7 @@ title: Andrey Sadovskiy's CV
   <li>
     Frontend Developer. Moscow, Russia
   </li>
-  <li>    
+  <li href="mailto:adomant1k1@gmail.com">    
     adomant1k1@gmail.com
   </li>
   <li>
