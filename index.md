@@ -119,8 +119,8 @@ __Samara State Aerospace University, Samara__
 ## Stack
 
 - __Web-development__: JS, TS , Angular, RxJs,  Apollo, Karma, HTML5, SCSS, Bootstrap, React
-- __Other__: Python, scikit-learn, keras, pandas, numpy. SQL, Postgres,
-- Java, Spring Boot, Git, Jenkins, Postman
+- __Other__: Python, Django, Flask, scikit-learn, keras, pandas, numpy. SQL, Postgres,
+- Java, Spring Boot, Git, Jenkins, Postman, GQL
 
 
 ## Language
@@ -133,7 +133,7 @@ Russian, English (B2)
 __Date of Birth__: 21.10.97
 
 
-### 
+
 
 Last updated: May 2023
 
