@@ -135,5 +135,5 @@ __Date of Birth__: 21.10.97
 
 
 
-Last updated: May 2023
+<span style="font-size: 14px; margin-top: 24px !important">Last updated: May 2023</span>
 
