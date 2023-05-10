@@ -7,42 +7,62 @@ title: Andrey Sadovskiy's CV
 
 <ul id="top-info">
   <li>
-    Web Developer. Samara, Russia
+    Frontend Developer. Moscow, Russia
   </li>
   <li>    
     adomant1k1@gmail.com
   </li>
   <li>
-    +79171101432
+    +7 9171101432
   </li>
 </ul>
 
 
 ## Experience
 
-<h3>Oct 2019 - Present</h3>
-__WaveAccess, Samara - Web Developer__
+<h3>Sep 2022 - Present</h3>
+__T1 Consulting, Moscow - Frontend Developer__
+
 
 <ul id="list-w-bullet-points">
   <li>
-  Development of a large solution for monitoring, analysis and project management.
-</li>
-<li>
-   Development of new product functionality, optimization of current capabilities.
-</li>
-<li>
+    Taking part in the development of a CRM system for the banking process Collection for the top3 Russian bank
+  </li>
+</ul>
+
+<h3>Oct 2019 - Present</h3>
+__WaveAccess, Samara - Frontend Developer__
+
+<ul id="list-w-bullet-points">
+  <li>
+    Worked on various projects as an outsourcing force
+  </li>
+  <li>
+    For UST Global developed platforms Dagility, Marketplace 
+    which included integration witр an extensive number of
+    Web and ML services for project work, monitoring and analysis.
+  </li>
+  <li>
+    For Dell took part in developmnent of some features in the 
+    Virutal Security Consultant project
+  </li>
+  <li>
+    For Health Samurai developed an MVP of a portal for making
+    appointments with a doctor in polyclinics
+  </li>
+  <li>
    Worked on plugin management, lazy-load modules, micro-frontends,
    graph/treelike builders
-</li>
+  </li>
 </ul>
 
 
 <h3>Aug 2019 - Oct 2019</h3>
-__Sberbank, Samara - Auditor__
+__Sberbank, Samara - Data Engineer__
 
 <ul id="list-w-bullet-points">
   <li>
-    Auditor of the Corporate Business Audit Department. 
+    Data Engineer & Auditor of the Corporate Business Audit Department. 
   </li>
   <li>
     Data engineering (SQL), was responsible for collecting data from various sources for auditing. 
@@ -55,7 +75,7 @@ __Sberbank, Samara - Auditor__
 
 
 <h3>Jul 2018 - Sep 2018</h3>
-__Integra - S, Samara - Web Developer__
+__Integra - S, Samara - Frontend Developer__
 
 
 <ul id="list-w-bullet-points">
@@ -90,7 +110,7 @@ __Samara State Aerospace University, Samara__
 
 ## Stack
 
-- __Web-development__: JS, TS , Angular, RxJs, Karma, HTML, SCSS, Bootstrap, React
+- __Web-development__: JS, TS , Angular, RxJs,  Apollo, Karma, HTML5, SCSS, Bootstrap, React
 - __Other__: Python, scikit-learn, keras, pandas, numpy. SQL, Postgres,
 - Java, Spring Boot, Git, Jenkins, Postman
 
@@ -110,6 +130,7 @@ __Date of Birth__: 21.10.97
 <div style="font-size: 14px; margin-top: 0 !important" id="webaddress">
 <a href="https://github.com/adomant1k1">Github</a>
 | <a href="https://www.linkedin.com/in/andrey-sadovskiy-a1b798209">Linkedin</a>
+| <a href="https://t.me/sovsemeneadomant1k">Telegram</a>
 </div>
 
 
