@@ -133,7 +133,10 @@ Russian, English (B2)
 __Date of Birth__: 21.10.97
 
 
+<ul style="font-size: 14px; margin-top: 24px !important">
+  <li>
+   Last updated: May 2023
+  </li>
+</ul>
 
-
-<span style="font-size: 14px; margin-top: 24px !important">Last updated: May 2023</span>
 
