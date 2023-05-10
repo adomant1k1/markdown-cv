@@ -20,9 +20,9 @@ title: Andrey Sadovskiy's CV
 ## Links
 
 <div style="font-size: 14px; margin-top: 0 !important" id="webaddress">
-<a href="https://github.com/adomant1k1"><i class="fab fa-github"></i>Github</a>
-  | <a href="https://www.linkedin.com/in/andrey-sadovskiy-a1b798209"><i class="fab fa-linkedin"></i>Linkedin</a>
-| <a href="https://t.me/sovsemeneadomant1k"><i class="fab fa-telegram"></i>Telegram</a>
+<a href="https://github.com/adomant1k1"><i class="fab fa-github" style="margin-right: 8px !important"></i>Github</a>
+  | <a href="https://www.linkedin.com/in/andrey-sadovskiy-a1b798209"><i class="fab fa-linkedin" style="margin-right: 8px !important"></i>Linkedin</a>
+| <a href="https://t.me/sovsemeneadomant1k"><i class="fab fa-telegram" style="margin-right: 8px !important"></i>Telegram</a>
 </div>
 
 
