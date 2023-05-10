@@ -133,7 +133,7 @@ Russian, English (B2)
 __Date of Birth__: 21.10.97
 
 
-### Footer
+### 
 
 Last updated: May 2023
 
