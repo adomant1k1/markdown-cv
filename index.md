@@ -17,6 +17,14 @@ title: Andrey Sadovskiy's CV
   </li>
 </ul>
 
+## Links
+
+<div style="font-size: 14px; margin-top: 0 !important" id="webaddress">
+<a href="https://github.com/adomant1k1">Github</a>
+| <a href="https://www.linkedin.com/in/andrey-sadovskiy-a1b798209">Linkedin</a>
+| <a href="https://t.me/sovsemeneadomant1k">Telegram</a>
+</div>
+
 
 ## Experience
 
@@ -125,16 +133,7 @@ Russian, English (B2)
 __Date of Birth__: 21.10.97
 
 
-## Links
+### Footer
 
-<div style="font-size: 14px; margin-top: 0 !important" id="webaddress">
-<a href="https://github.com/adomant1k1">Github</a>
-| <a href="https://www.linkedin.com/in/andrey-sadovskiy-a1b798209">Linkedin</a>
-| <a href="https://t.me/sovsemeneadomant1k">Telegram</a>
-</div>
-
-
-<!-- ### Footer
-
-Last updated: Febr 2022 -->
+Last updated: May 2023
 
