@@ -38,7 +38,7 @@ __T1 Consulting, Moscow - Frontend Developer__
   </li>
 </ul>
 
-<h3>Oct 2019 - Present</h3>
+<h3>Oct 2019 - Sep 2022</h3>
 __WaveAccess, Samara - Frontend Developer__
 
 <ul id="list-w-bullet-points">
