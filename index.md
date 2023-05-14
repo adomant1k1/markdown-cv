@@ -9,13 +9,14 @@ title: Andrey Sadovskiy's CV
   <li>
     Frontend Developer | Moscow, Russia
   </li>
-  <li style="margin-top: 4px">    
+  <li style="margin-top: 8px">    
     <a href="mailto:adomant1k1@gmail.com">adomant1k1@gmail.com</a>
   </li>
-  <li style="margin-top: 4px">
+  <li style="margin-top: 8px">
     +7 9171101432
   </li>
 </ul>
+
 
 ## Links
 
@@ -95,10 +96,22 @@ __Frontend Developer | Integra - S, Samara__
 ## Education
 
 <h3>2019-2021</h3>
-__Master's Degree, Information Technology and Systems | Samara State Aerospace University, Samara.__
+__Samara State Aerospace University, Samara__
+ 
+<ul id="list-w-bullet-points">
+  <li>
+    Master's degree, Information Technology and Systems
+  </li>
+</ul>
 
 <h3>2015-2019</h3>
-__Bachelor's Degree, Information Technology and Systems | Samara State Aerospace University, Samara.__
+__Samara State Aerospace University, Samara.__
+ 
+<ul id="list-w-bullet-points">
+  <li>
+    Bachelor's degree, Information Technology and Systems
+  </li>
+</ul>
 
 
 ## Stack
@@ -115,13 +128,12 @@ Russian (Native), English (B2, Intermediate)
 
 ## Personal Info
 
-__Date of Birth__: 21.10.97
+-__Date of Birth__: 21.10.97
+-__Interests: Travelling, Cooking, Snowboarding
 
 
-<ul style="font-size: 14px; margin-top: 3em !important">
+<ul style="font-size: 14px; margin-top: 3.5em !important">
   <li>
    Last updated: May 2023
   </li>
 </ul>
-
-
