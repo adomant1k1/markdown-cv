@@ -128,8 +128,8 @@ Russian (Native), English (B2, Intermediate)
 
 ## Personal Info
 
--__Date of Birth__: 21.10.97
--__Interests: Travelling, Cooking, Snowboarding
+- __Date of Birth__: 21.10.97
+- __Interests__: Travelling, Cooking, Snowboarding
 
 
 <ul style="font-size: 14px; margin-top: 3.5em !important">
