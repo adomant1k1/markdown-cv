@@ -120,6 +120,10 @@ __Samara State Aerospace University, Samara.__
 - __Other__: Python, Django, Flask, scikit-learn, Keras, pandas, NumPy, SQL, PostgreSQL, Java, Spring Boot,
 -  Git, Jenkins, Postman, GraphQL
 
+## Publications
+
+<h3>2021</h3> Comparative analysis of mathematical models financial time series | ADVANCED INFORMATION TECHNOLOGIES (AIT 2021)
+
 
 ## Languages
 
