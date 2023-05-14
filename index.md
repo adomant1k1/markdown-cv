@@ -7,7 +7,7 @@ title: Andrey Sadovskiy's CV
 
 <ul id="top-info">
   <li>
-    Frontend Developer. Moscow, Russia
+    Frontend Developer | Moscow, Russia
   </li>
   <li style="margin-top: 4px">    
     <a href="mailto:adomant1k1@gmail.com">adomant1k1@gmail.com</a>
@@ -34,7 +34,7 @@ __T1 Consulting, Moscow - Frontend Developer__
 
 <ul id="list-w-bullet-points">
   <li>
-    Taking part in the development of a CRM system for the banking process Collection for the top3 Russian bank
+    Contributed to the development of a CRM system for the banking process Collection for a top3 Russian bank
   </li>
 </ul>
 
@@ -43,24 +43,20 @@ __WaveAccess, Samara - Frontend Developer__
 
 <ul id="list-w-bullet-points">
   <li>
-    Worked on various projects as an outsourcing force
+    Collaborated on various projects as an outsourcing team member
   </li>
   <li>
-    For UST Global developed platforms Dagility, Marketplace 
-    which included integration with an extensive number of
-    Web and ML services for project work, monitoring and analysis
+    Developed platforms Dagility and Marketplace for UST Global, integrating
+    with numerous Web and ML services for project work, monitoring, and analysis
   </li>
   <li>
-    For Dell took part in developmnent of some features in the 
-    Virutal Security Consultant project
+    Assisted in the development of features for Dell's Virtual Security Consultant project
   </li>
   <li>
-    For Health Samurai developed an MVP of a portal for making
-    appointments with a doctor in polyclinics
+    Developed an MVP of a portal for booking doctor appointments in polyclinics for Health Samurai
   </li>
   <li>
-   Worked on plugin management, lazy-load modules, micro-frontends,
-   graph/treelike builders
+   Implemented plugin management, lazy-load modules, micro-frontends, and graph/treelike builders
   </li>
 </ul>
 
@@ -70,14 +66,14 @@ __Sberbank, Samara - Data Engineer__
 
 <ul id="list-w-bullet-points">
   <li>
-    Data Engineer & Auditor of the Corporate Business Audit Department
+    Served as a Data Engineer & Auditor for the Corporate Business Audit Department
   </li>
   <li>
-    Data engineering (SQL), was responsible for collecting data from various sources for auditing
+    Served as a Data Engineer & Auditor for the Corporate Business Audit Department
   </li>
   <li>
-    Department business process automation (Python), developed script for automating the process
-    of searching for theft in certain cases according to .pdf scans of loan agreements
+    Automated department business processes (Python), creating a script to search for theft in
+    certain cases based on .pdf scans of loan agreements
   </li>
 </ul>
 
@@ -88,10 +84,10 @@ __Integra - S, Samara - Frontend Developer__
 
 <ul id="list-w-bullet-points">
   <li>
-    Software implementation of working with graphical elements in GIS(JS)
+    Implemented software for working with graphical elements in GIS (JavaScript)
   </li>
   <li>
-   Developing interface for interactions with 3D objects in GIS CesiumJS
+   Developed an interface for interaction with 3D objects in GIS CesiumJS
   </li>
 </ul>
 
@@ -119,14 +115,14 @@ __Samara State Aerospace University, Samara.__
 
 ## Stack
 
-- __Web-development__: JS, TS , Angular, RxJs,  Apollo, Karma, HTML5, SCSS, Bootstrap, React
-- __Other__: Python, Django, Flask, scikit-learn, keras, pandas, numpy. SQL, Postgres,
-- Java, Spring Boot, Git, Jenkins, Postman, GQL
+- __Web-development__: JavaScript, TypeScript, Angular, RxJS, Apollo, Karma, HTML5, SCSS, Bootstrap, React
+- __Other__: Python, Django, Flask, scikit-learn, Keras, pandas, NumPy, SQL, PostgreSQL, Java, Spring Boot,
+-  Git, Jenkins, Postman, GraphQL
 
 
-## Language
+## Languages
 
-Russian, English (B2)
+Russian (Native), English (B2, Intermediate)
 
 
 ## Personal Info
