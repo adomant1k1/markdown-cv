@@ -29,7 +29,7 @@ title: Andrey Sadovskiy's CV
 ## Experience
 
 <h3>Sep 2022 - Present</h3>
-__T1 Consulting, Moscow - Frontend Developer__
+__Frontend Developer | T1 Consulting, Moscow__
 
 
 <ul id="list-w-bullet-points">
@@ -39,7 +39,7 @@ __T1 Consulting, Moscow - Frontend Developer__
 </ul>
 
 <h3>Oct 2019 - Sep 2022</h3>
-__WaveAccess, Samara - Frontend Developer__
+__Frontend Developer | WaveAccess, Samara__
 
 <ul id="list-w-bullet-points">
   <li>
@@ -62,14 +62,14 @@ __WaveAccess, Samara - Frontend Developer__
 
 
 <h3>Aug 2019 - Oct 2019</h3>
-__Sberbank, Samara - Data Engineer__
+__Data Engineer | Sberbank, Samara__
 
 <ul id="list-w-bullet-points">
   <li>
     Served as a Data Engineer & Auditor for the Corporate Business Audit Department
   </li>
   <li>
-    Served as a Data Engineer & Auditor for the Corporate Business Audit Department
+    Performed data engineering (SQL) and collected data from various sources for auditing purposes
   </li>
   <li>
     Automated department business processes (Python), creating a script to search for theft in
@@ -79,7 +79,7 @@ __Sberbank, Samara - Data Engineer__
 
 
 <h3>Jul 2018 - Sep 2018</h3>
-__Integra - S, Samara - Frontend Developer__
+__Frontend Developer | Integra - S, Samara__
 
 
 <ul id="list-w-bullet-points">
