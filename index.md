@@ -95,22 +95,10 @@ __Frontend Developer | Integra - S, Samara__
 ## Education
 
 <h3>2019-2021</h3>
-__Samara State Aerospace University, Samara__
-
-<ul id="list-w-bullet-points">
-  <li>
-    Master's degree, Information Technology and Systems
-  </li>
-</ul>
+__Master's Degree, Information Technology and Systems | Samara State Aerospace University, Samara.__
 
 <h3>2015-2019</h3>
-__Samara State Aerospace University, Samara.__
-
-<ul id="list-w-bullet-points">
-  <li>
-    Bachelor's degree, Information Technology and Systems
-  </li>
-</ul>
+__Bachelor's Degree, Information Technology and Systems | Samara State Aerospace University, Samara.__
 
 
 ## Stack
