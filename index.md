@@ -23,30 +23,36 @@ title: Andrey Sadovskiy's CV
 <div style="font-size: 14px; margin-top: 0 !important" id="webaddress">
 <a href="https://github.com/adomant1k1"><i class="fab fa-github" style="margin-right: 8px !important"></i>Github</a>
   | <a href="https://www.linkedin.com/in/andrey-sadovskiy-a1b798209"><i class="fab fa-linkedin" style="margin-right: 8px !important"></i>Linkedin</a>
-| <a href="https://t.me/sovsemeneadomant1k"><i class="fab fa-telegram" style="margin-right: 8px !important"></i>Telegram</a>
+| <a href="https://t.me/sovsemneadomant1k"><i class="fab fa-telegram" style="margin-right: 8px !important"></i>Telegram</a>
 </div>
 
 
 ## Experience
 
 <h3>Sep 2024 - Present</h3>
-__Frontend Developer | Selectel, Saint-petersburg, selectel.ru__
+__Frontend Developer | Selectel, Saint-petersburg, <a href="https://selectel.ru">selectel.ru</a>__
 
 
 <ul id="list-w-bullet-points">
   <li>
-    Contributed to the development of Selectel Control Panel, "Cloud platform" section
+    Contributed to the development of Selectel Control Panel, "Cloud platform" section.
+  </li>
+  <li>
+     Was engaged in clearing the backlog of technical debt and bugs, adding new functionality to the cloud platform
   </li>
 </ul>
 
 <h3>Apr 2024 - Sep 2024</h3>
-__Frontend Developer | INFOWATCH, Moscow, infowatch.ru__
+__Frontend Developer | INFOWATCH, Moscow, <a href="https://infowatch.ru">infowatch.ru</a>__
 
 
 <ul id="list-w-bullet-points">
   <li>
     Contributed to the development of Infowatch Vision is a product as part of the DLP Traffic Monitor system, for visualizing statistics and
 a graph of connections.
+  </li>
+  <li>
+     Was improving current widgets and incorporating new features into the relationship graph.
   </li>
 </ul>
 
@@ -57,12 +63,15 @@ __Frontend Developer | T1 Consulting, Moscow, tsconsulting.ru__
 <ul id="list-w-bullet-points">
   <li>
     Contributed to the development of NOTA MODUS, a web application for automating the full cycle of collection
-of overdue debts
+of overdue debts.
+  </li>
+  <li>
+    Assisted in the development of new functionality for the Aeroflot loyalty accounting system.
   </li>
 </ul>
 
 <h3>Oct 2019 - Sep 2022</h3>
-__Frontend Developer | WaveAccess, Samara__
+__Frontend Developer | WaveAccess, Samara, <a href="https://waveaccess.ru">waveaccess.ru</a>__
 
 <ul id="list-w-bullet-points">
   <li>
