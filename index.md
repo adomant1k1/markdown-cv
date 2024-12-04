@@ -147,7 +147,7 @@ __Samara State Aerospace University, Samara.__
 
 ## Stack
 
-- __Web-development__: JavaScript, TypeScript, Angular, RxJS, Apollo, NX, Three.js Karma, Jest, Playwright, HTML5, SCSS, Bootstrap, React
+- __Web-development__: JavaScript, TypeScript, Angular, RxJS, Apollo, NX, Three.js, Karma, Jest, Playwright, HTML5, SCSS, Bootstrap, React
 - __Other__: Python, Django, Flask, scikit-learn, Keras, pandas, NumPy, SQL, PostgreSQL, Java, Spring Boot,
 -  Git, Jenkins, Postman, GraphQL, Gerrit, Figma
 
