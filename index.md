@@ -29,13 +29,45 @@ title: Andrey Sadovskiy's CV
 
 ## Experience
 
-<h3>Sep 2022 - Present</h3>
-__Frontend Developer | T1 Consulting, Moscow__
+<h3>Sep 2024 - Present</h3>
+__Frontend Developer | Selectel, Saint-petersburg, selectel.ru__
+
+
+<ul id="list-w-bullet-points">
+  <li>
+    Contributed to the development of Selectel Control Panel, "Cloud platform" section
+  </li>
+</ul>
 
 
 <ul id="list-w-bullet-points">
   <li>
     Contributed to the development of a CRM system for the banking process Collection for a top3 Russian bank
+  </li>
+</ul>
+
+<h3>Apr 2024 - Sep 2024</h3>
+__Frontend Developer | INFOWATCH, Moscow, infowatch.ru__
+
+
+<ul id="list-w-bullet-points">
+  <li>
+    Contributed to the development of Infowatch Vision is a product as part of the DLP Traffic Monitor system, for visualizing statistics and
+a graph of connections.
+  </li>
+</ul>
+
+<h3>Sep 2022 - Apr 2024</h3>
+__Frontend Developer | T1 Consulting, Moscow, tsconsulting.ru__
+
+
+<ul id="list-w-bullet-points">
+  <li>
+    Contributed to the development of NOTA MODUS, a web application for automating the full cycle of collection
+of overdue debts
+  </li>
+  <li>
+    Collaborated on various projects as an outsourcing team member
   </li>
 </ul>
 
@@ -116,9 +148,9 @@ __Samara State Aerospace University, Samara.__
 
 ## Stack
 
-- __Web-development__: JavaScript, TypeScript, Angular, RxJS, Apollo, Karma, HTML5, SCSS, Bootstrap, React
+- __Web-development__: JavaScript, TypeScript, Angular, RxJS, Apollo, NX, Three.js Karma, Jest, Playwright, HTML5, SCSS, Bootstrap, React
 - __Other__: Python, Django, Flask, scikit-learn, Keras, pandas, NumPy, SQL, PostgreSQL, Java, Spring Boot,
--  Git, Jenkins, Postman, GraphQL
+-  Git, Jenkins, Postman, GraphQL, Gerrit, Figma
 
 ## Publications
 
