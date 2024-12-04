@@ -35,10 +35,10 @@ __Frontend Developer | Selectel, Saint-petersburg, <a href="https://selectel.ru"
 
 <ul id="list-w-bullet-points">
   <li>
-    Contributed to the development of Selectel Control Panel, "Cloud platform" section.
+    Contributed to the development of Selectel Control Panel "Cloud platform" section.
   </li>
   <li>
-     Was engaged in clearing the backlog of technical debt and bugs, adding new functionality to the cloud platform.
+     Redyced the backlog of technical debt and bugs and added new functionality to the cloud platform.
   </li>
 </ul>
 
@@ -48,7 +48,7 @@ __Frontend Developer | INFOWATCH, Moscow, <a href="https://infowatch.ru">infowat
 
 <ul id="list-w-bullet-points">
   <li>
-    Contributed to the development of Infowatch Vision is a product as part of the DLP Traffic Monitor system, for visualizing statistics and
+    Contributed to the development of Infowatch Vision is a product as part of the DLP Traffic Monitor system for visualizing statistics and
 a graph of connections.
   </li>
   <li>
