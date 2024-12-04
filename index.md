@@ -39,13 +39,6 @@ __Frontend Developer | Selectel, Saint-petersburg, selectel.ru__
   </li>
 </ul>
 
-
-<ul id="list-w-bullet-points">
-  <li>
-    Contributed to the development of a CRM system for the banking process Collection for a top3 Russian bank
-  </li>
-</ul>
-
 <h3>Apr 2024 - Sep 2024</h3>
 __Frontend Developer | INFOWATCH, Moscow, infowatch.ru__
 
