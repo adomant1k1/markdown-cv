@@ -59,9 +59,6 @@ __Frontend Developer | T1 Consulting, Moscow, tsconsulting.ru__
     Contributed to the development of NOTA MODUS, a web application for automating the full cycle of collection
 of overdue debts
   </li>
-  <li>
-    Collaborated on various projects as an outsourcing team member
-  </li>
 </ul>
 
 <h3>Oct 2019 - Sep 2022</h3>
