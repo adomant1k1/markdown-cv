@@ -169,6 +169,6 @@ Russian (Native), English (B2, Intermediate)
 
 <ul style="font-size: 14px; margin-top: 3.5em !important">
   <li>
-   Last updated: May 2023
+   Last updated: Dec 2024
   </li>
 </ul>
