@@ -57,7 +57,7 @@ a graph of connections.
 </ul>
 
 <h3>Sep 2022 - Apr 2024</h3>
-__Frontend Developer | T1 Consulting, Moscow, tsconsulting.ru__
+__Frontend Developer | T1 Consulting, Moscow, <a href="https://tsconsulting.ru">tsconsulting.ru</a>tsconsulting.ru__
 
 
 <ul id="list-w-bullet-points">
