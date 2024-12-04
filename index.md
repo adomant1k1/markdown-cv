@@ -38,7 +38,7 @@ __Frontend Developer | Selectel, Saint-petersburg, <a href="https://selectel.ru"
     Contributed to the development of Selectel Control Panel, "Cloud platform" section.
   </li>
   <li>
-     Was engaged in clearing the backlog of technical debt and bugs, adding new functionality to the cloud platform
+     Was engaged in clearing the backlog of technical debt and bugs, adding new functionality to the cloud platform.
   </li>
 </ul>
 
