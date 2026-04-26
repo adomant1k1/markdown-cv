@@ -7,7 +7,7 @@ title: Andrey Sadovskiy's CV
 
 <ul id="top-info">
   <li>
-    Senior Frontend Developer / Team Lead | Moscow, Russia
+    Senior Frontend Developer / Team Lead | Saint-Petersburg, Russia
   </li>
   <li style="margin-top: 8px">    
     <a href="mailto:adomant1k1@gmail.com">adomant1k1@gmail.com</a>
