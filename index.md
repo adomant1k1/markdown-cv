@@ -7,7 +7,7 @@ title: Andrey Sadovskiy's CV
 
 <ul id="top-info">
   <li>
-    Frontend Developer | Moscow, Russia
+    Senior Frontend Developer / Team Lead | Moscow, Russia
   </li>
   <li style="margin-top: 8px">    
     <a href="mailto:adomant1k1@gmail.com">adomant1k1@gmail.com</a>
@@ -29,146 +29,132 @@ title: Andrey Sadovskiy's CV
 
 ## Experience
 
-<h3>Sep 2024 - Present</h3>
-__Frontend Developer | Selectel, Saint-petersburg, <a href="https://selectel.ru">selectel.ru</a>__
-
+<h3>Mar 2025 — Present</h3>
+__Team Lead / Senior Frontend Developer | Smartix, Moscow__
 
 <ul id="list-w-bullet-points">
-  <li>
-    Contributed to the development of Selectel Control Panel "Cloud platform" section.
-  </li>
-  <li>
-     Redyced the backlog of technical debt and bugs and added new functionality to the cloud platform.
-  </li>
+  <li>Leading a frontend team of 5 developers: task decomposition, estimation, workload distribution, code review.</li>
+  <li>Built development processes from scratch — code review system, Agile rituals (planning, daily, retro).</li>
+  <li>Developed a public catalog website with admin panel for a St. Petersburg factory (Vue 3 + Nuxt + Vuetify + Tanstack).</li>
+  <li>Also developing ACS and ISU systems for universities.</li>
+  <li>Responsible for build and release deployment (Vite + GitLab CI).</li>
+  <li>Working with ambiguous requirements and unstructured processes — combining roles of developer, DevOps, analyst, and HR.</li>
 </ul>
 
-<h3>Apr 2024 - Sep 2024</h3>
+__Key achievements:__
+<ul id="list-w-bullet-points">
+  <li>Migrated the codebase to a monorepo, reducing build time by 2x.</li>
+  <li>Established full-cycle development processes from scratch in a chaotic environment.</li>
+</ul>
+
+<h3>Sep 2024 — Mar 2025</h3>
+__Frontend Developer | Selectel, Moscow / Saint-Petersburg, <a href="https://selectel.ru">selectel.ru</a>__
+
+<ul id="list-w-bullet-points">
+  <li>Developed new features for the cloud platform.</li>
+  <li>Reduced technical debt: refactoring, optimization, fixing legacy solutions.</li>
+  <li>Migrated legacy functionality from AngularJS to Angular 18, ensuring compatibility and performance.</li>
+</ul>
+
+<h3>Apr 2024 — Sep 2024</h3>
 __Frontend Developer | INFOWATCH, Moscow, <a href="https://infowatch.ru">infowatch.ru</a>__
 
-
 <ul id="list-w-bullet-points">
-  <li>
-    Contributed to the development of Infowatch Vision is a product as part of the DLP Traffic Monitor system for visualizing statistics and
-a graph of connections.
-  </li>
-  <li>
-     Was improving current widgets and incorporating new features into the relationship graph.
-  </li>
+  <li>Developed Infowatch Vision — a product within the DLP Traffic Monitor system for visualizing statistics and relationship graphs.</li>
+  <li>Worked on Angular 17: feature development, unit testing (Jest), code review, bug fixing.</li>
+  <li>Participated in sprint planning, estimation, prioritization, and internal demos.</li>
+  <li>Collaborated with developers, analysts, testers, designers, and PO.</li>
 </ul>
 
-<h3>Sep 2022 - Apr 2024</h3>
-__Frontend Developer | T1 Consulting, Moscow, <a href="https://tsconsulting.ru">tsconsulting.ru</a>__
-
-
+__Additional contributions:__
 <ul id="list-w-bullet-points">
-  <li>
-    Contributed to the development of NOTA MODUS, a web application for automating the full cycle of collection
-of overdue debts.
-  </li>
-  <li>
-    Assisted in the development of new functionality for the Aeroflot loyalty accounting system.
-  </li>
+  <li>Enhanced complex graph rendering and node interaction (Three.js).</li>
+  <li>Developed reusable inline-filter functionality, adopted across multiple products.</li>
 </ul>
 
-<h3>Oct 2019 - Sep 2022</h3>
-__Frontend Developer | WaveAccess, Samara, <a href="https://waveaccess.ru">waveaccess.ru</a>__
+<h3>Sep 2022 — Apr 2024</h3>
+__Lead Frontend Developer | T1 Consulting (ex. Technoserv Consulting), Moscow, <a href="https://tsconsulting.ru">tsconsulting.ru</a>__
 
 <ul id="list-w-bullet-points">
-  <li>
-    Collaborated on various projects as an outsourcing team member
-  </li>
-  <li>
-    Developed platforms Dagility and Marketplace for UST Global, integrating
-    with numerous Web and ML services for project work, monitoring, and analysis
-  </li>
-  <li>
-    Assisted in the development of features for Dell's Virtual Security Consultant project
-  </li>
-  <li>
-    Developed an MVP of a portal for booking doctor appointments in polyclinics for Health Samurai
-  </li>
-  <li>
-   Implemented plugin management, lazy-load modules, micro-frontends, and graph/treelike builders
-  </li>
+  <li>Developed "NOTA MODUS. Collection" — a web application for automating the full cycle of overdue debt collection (Angular 11–14).</li>
+  <li>Designed critical system modules based on business requirements.</li>
+  <li>Covered critical components with tests (Karma).</li>
+  <li>Onboarded newcomers and temporarily replaced team lead during absences.</li>
+  <li>Validated functional requirements for feasibility, maintainability, and UX alignment.</li>
+  <li>Conducted demos, participated in all Scrum ceremonies (daily, retro, PBR, sprint planning/review).</li>
 </ul>
 
+<h3>Oct 2019 — Sep 2022</h3>
+__Frontend Developer | Softline / WaveAccess, Samara, <a href="https://waveaccess.ru">waveaccess.ru</a>__
 
-<h3>Aug 2019 - Oct 2019</h3>
+<ul id="list-w-bullet-points">
+  <li>Developed a monitoring and analytics platform for IT project management (Angular 8–11).</li>
+  <li>Improved unit test coverage from 35% to 65%.</li>
+  <li>Launched a marketplace for application templates into production.</li>
+  <li>Optimized page loading performance.</li>
+  <li>Worked with plugin management, lazy loading, micro-frontends (SystemJS, NX), graph/tree builders.</li>
+  <li>Translated ambiguous business requirements into product features.</li>
+</ul>
+
+<h3>Aug 2019 — Oct 2019</h3>
 __Data Engineer | Sberbank, Samara__
 
 <ul id="list-w-bullet-points">
-  <li>
-    Served as a Data Engineer & Auditor for the Corporate Business Audit Department
-  </li>
-  <li>
-    Performed data engineering (SQL) and collected data from various sources for auditing purposes
-  </li>
-  <li>
-    Automated department business processes (Python), creating a script to search for theft in
-    certain cases based on .pdf scans of loan agreements
-  </li>
+  <li>Served as Data Engineer & Auditor for the Corporate Business Audit Department.</li>
+  <li>Performed data engineering (SQL) and collected data from various sources for auditing purposes.</li>
+  <li>Automated department business processes (Python), creating a script to detect theft based on PDF scans of loan agreements.</li>
 </ul>
 
-
-<h3>Jul 2018 - Sep 2018</h3>
+<h3>Jul 2018 — Sep 2018</h3>
 __Frontend Developer | Integra - S, Samara__
 
-
 <ul id="list-w-bullet-points">
-  <li>
-    Implemented software for working with graphical elements in GIS (JavaScript)
-  </li>
-  <li>
-   Developed an interface for interaction with 3D objects in GIS CesiumJS
-  </li>
+  <li>Implemented software for working with graphical elements in GIS (JavaScript).</li>
+  <li>Developed interface for interaction with 3D objects in GIS CesiumJS.</li>
 </ul>
 
 
 ## Education
 
-<h3>2019-2021</h3>
+<h3>2019 — 2021</h3>
 __Samara State Aerospace University, Samara__
  
 <ul id="list-w-bullet-points">
-  <li>
-    Master's degree, Information Technology and Systems
-  </li>
+  <li>Master's degree, Computer Science and Computer Engineering</li>
 </ul>
 
-<h3>2015-2019</h3>
-__Samara State Aerospace University, Samara.__
+<h3>2015 — 2019</h3>
+__Samara State Aerospace University, Samara__
  
 <ul id="list-w-bullet-points">
-  <li>
-    Bachelor's degree, Information Technology and Systems
-  </li>
+  <li>Bachelor's degree, Computer Science and Computer Engineering</li>
 </ul>
 
 
 ## Stack
 
-- __Web-development__: JavaScript, TypeScript, Angular, RxJS, Apollo, NX, Three.js, Karma, Jest, Playwright, HTML5, SCSS, Bootstrap, React
-- __Other__: Python, Django, Flask, scikit-learn, Keras, pandas, NumPy, SQL, PostgreSQL, Java, Spring Boot,
--  Git, Jenkins, Postman, GraphQL, Gerrit, Figma
+- **Web development**: TS, JS, Angular, Vue 3, Nuxt, Vuetify, Tanstack, RxJS, Three.js, Apollo, NX, Vite, Webpack, Jest, Karma, Playwright, SCSS, GitLab CI, Jenkins
+- **Other**: Python, SQL, Java, Spring Boot, GraphQL
 
 ## Publications
 
-<h3>2021</h3> Comparative analysis of mathematical models financial time series | ADVANCED INFORMATION TECHNOLOGIES (AIT 2021)
+<h3>2021</h3> Comparative analysis of mathematical models of financial time series | ADVANCED INFORMATION TECHNOLOGIES (AIT 2021)
 
 
 ## Languages
 
-Russian (Native), English (B2, Intermediate)
+Russian (Native), English (B2 — Upper Intermediate)
 
 
 ## Personal Info
 
-- __Date of Birth__: 21.10.97
-- __Interests__: Travelling, Cooking, Snowboarding
+- **Date of Birth**: 21.10.1997
+- **Relocation**: Willing to relocate, ready for business trips
+- **Interests**: Travelling, Cooking, Fitness
 
 
 <ul style="font-size: 14px; margin-top: 3.5em !important">
   <li>
-   Last updated: Dec 2024
+   Last updated: April 2026
   </li>
 </ul>
