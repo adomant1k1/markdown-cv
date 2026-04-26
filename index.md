@@ -30,7 +30,7 @@ title: Andrey Sadovskiy's CV
 ## Experience
 
 <h3>Mar 2025 — Present</h3>
-__Team Lead / Senior Frontend Developer | Smartix, Moscow__
+__Team Lead / Senior Frontend Developer | Smartiks, Saint-Petersburg
 
 <ul id="list-w-bullet-points">
   <li>Leading a frontend team of 5 developers: task decomposition, estimation, workload distribution, code review.</li>
